@@ -1,8 +1,8 @@
-import moviepy.editor #import *
+import moviepy.editor
 from tkinter import *
 from moviepy.video.io.ffmpeg_tools import ffmpeg_extract_subclip
 #videored.py
-#SKAM France S6 - Teaser
+#
 def icheckkkk():
 	file_name = str(edit2.get())
 	t_start = edit3.get()
